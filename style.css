@@ -1,0 +1,50 @@
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:ital,wght@1,700&family=Montserrat:wght@900&family=Open+Sans&family=Play:wght@700&family=Spectral:wght@800&display=swap');
+
+  @import url('https://fonts.googleapis.com/css2?family=Borel&family=Josefin+Sans:ital,wght@1,700&family=Montserrat:wght@900&family=Open+Sans&family=Play:wght@700&family=Spectral:wght@800&display=swap');
+
+a{
+    text-decoration-line:  overline underline line-through;
+}
+#one{
+    text-decoration-line: overline;
+    text-decoration-style: dotted;
+}
+#two{
+    text-decoration-color: cadetblue;
+    text-shadow: 2px;
+    text-decoration-line: underline;
+    text-decoration-style: wavy;
+}
+p{
+    text-indent: 50px;
+}
+#three {
+    margin-left: auto;
+    letter-spacing: 4px;
+}
+#four {
+    text-indent: 50px;
+    line-height: 1.5;
+    word-spacing: 5px;
+    white-space: pre;  
+}
+  
+ 
+  
+
+.first{
+ font-family: 'Josefin Sans', sans-serif;
+font-family: 'Montserrat', sans-serif;
+font-family: 'Open Sans', sans-serif;
+font-family: 'Play', sans-serif;
+font-family: 'Spectral', serif;
+}
+
+.s2{
+    font-family: 'Borel', cursive;
+font-family: 'Josefin Sans', sans-serif;
+font-family: 'Montserrat', sans-serif;
+font-family: 'Open Sans', sans-serif;
+font-family: 'Play', sans-serif;
+font-family: 'Spectral', serif;
+}
